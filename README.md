@@ -75,7 +75,11 @@ A Flutter e‑commerce demo with product browsing, search-style discovery, cart,
 ### Utilities
 
 - **AppColors / AppStrings** Central place for colors and strings  
-- **FakeStore API** Public demo REST API used for product data  
+- **FakeStore API** Public demo REST API used for product data
+
+
+### Note
+- Replace publishableKey and clientSecretKey in constant to your own Stripe testing account for checking payment flow.
 
 https://github.com/user-attachments/assets/0116f1d9-bc09-4fce-978a-936b13214564
 
